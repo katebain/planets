@@ -7,3 +7,5 @@ Change made by Kate.
 =======
 Change by Daniel
 >>>>>>> a88789e748b700448830329c0656ce6618e54ea2
+
+New Branch: Temperature
